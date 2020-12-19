@@ -48,8 +48,6 @@ accuracy = classifier.score(X_test, Y_test)
 print('accuracy : ', accuracy)
 print(df.head())
 
-0668230046
-
 
 
 
